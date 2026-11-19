@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "agentstore"
+name = "agentstore-oss"
 version = "0.1.0"
 description = "agent 应用商店的最小内核：清单、不可变版本、权限闸、计量与分成"
 readme = "README.md"
